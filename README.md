@@ -1,0 +1,1 @@
+# Oyun-Sirketi-Verileri-ile-Kural-Tabanli-Musteri-Getirisi-Tahmini
