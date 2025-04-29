@@ -21,8 +21,8 @@ Follow these steps to run the project locally:
 
 - Clone the Repository:
     ```bash
-    git clone https://github.com/MuhammetEnesDemirkol/Oyun-Sirketi-Verileri-ile-Kural-Tabanli-Musteri-Getirisi-Tahmini
-    cd Oyun-Sirketi-Verileri-ile-Kural-Tabanli-Musteri-Getirisi-Tahmini
+    git clone https://github.com/MuhammetEnesDemirkol/Gaming-Company--Sales-Prediction
+    cd Gaming-Company--Sales-Prediction
     ```
 
 - Install Required Python Packages:
